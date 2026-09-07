@@ -94,9 +94,10 @@ The dashboard helps answer questions such as:
 
 ## Project Files
 
-- `Attendance_Dataset.xlsx` – Source attendance dataset
+- `Employee_Attendance_Dataset.xlsx` – Source attendance dataset
 - `Employee_Attendance_Dashboard.pdf` – Dashboard PDF
-- `Attendance_Dashboard_Page1.png` – Dashboard screenshot
+- `Employee_Attendance_Dashboard.png` – Dashboard screenshot
+- `Employee_Attendance_Details.png` - Dashboard screenshot
 - `Employee_Attendance_Dashboard.pbix` – Power BI report file
 
 ## Disclaimer
